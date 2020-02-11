@@ -1,0 +1,4 @@
+Bundle-Name: TestModule
+Bundle-SymbolicName: com.liferay.test.moduletest
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.test.moduletest.constants
